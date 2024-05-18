@@ -54,3 +54,6 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
