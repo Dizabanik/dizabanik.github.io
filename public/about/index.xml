@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on [._. ]</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in Abouts on [._. ]</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 18 May 2024 09:06:05 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/about-me/</link>
+      <pubDate>Sat, 18 May 2024 09:06:05 +0200</pubDate>
+      <guid>//localhost:1313/about/about-me/</guid>
+      <description> Not Published Projects I&amp;rsquo;m currently working on KWAS custom assembler using C from scratch Wexlib C library with tons of functions, data structures, extremely fast ECS system, etc. cUc C server library Kawa programming language using C Cornflake game and application engine written in C AI for creatures in Cornflake Engine cUcf file transfer using cUc in C </description>
+    </item>
+  </channel>
+</rss>

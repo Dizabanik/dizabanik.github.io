@@ -23,7 +23,7 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "Blog with programming tutorials by Dizabanik(yuh uh)"
-  keywords = "homepage, blog"
+  keywords = "homepage, blog, about"
   images = [""]
 
 [taxonomies]
@@ -54,6 +54,16 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
+    url        = "/about/about-me/"
+  [[params.social]]
+    name = "discord"
+    url = "https://discordapp.com/users/546333165183303680"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/Dizabanik"
+  [[params.social]]
+    name = "email"
+    url = "https://mail.google.com/mail/?view=cm&fs=1&to=dizabanik@gmail.com"
